@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Zhiyuan Jiang</title>
+    <link>https://zhiyuan-jiang.github.io/publication_types/3/</link>
+    <description>Recent content in 3 on Zhiyuan Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zhiyuan Jiang</copyright>
+    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zhiyuan-jiang.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploiting the Moving Intelligence: Delay-Optimized Computation Offloading in Vehicular Fog Networks</title>
+      <link>https://zhiyuan-jiang.github.io/publication/vcc/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhiyuan-jiang.github.io/publication/vcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intermittent CSI Update for Massive MIMO Systems with Heterogeneous User Mobility</title>
+      <link>https://zhiyuan-jiang.github.io/publication/32/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhiyuan-jiang.github.io/publication/32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-Based Remote Channel Inference: Feasibility Analysis and Case Study</title>
+      <link>https://zhiyuan-jiang.github.io/publication/33/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhiyuan-jiang.github.io/publication/33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SENATE: A Permissionless Byzantine Consensus Protocol in Wireless Networks for Real-Time Internet-of-Things Applications</title>
+      <link>https://zhiyuan-jiang.github.io/publication/35/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhiyuan-jiang.github.io/publication/35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timely Status Update in Massive IoT Systems: Decentralized Scheduling for Wireless Uplinks</title>
+      <link>https://zhiyuan-jiang.github.io/publication/31/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhiyuan-jiang.github.io/publication/31/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

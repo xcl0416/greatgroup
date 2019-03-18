@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Zhiyuan Jiang</title>
+    <link>https://zhiyuan-jiang.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Zhiyuan Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zhiyuan Jiang</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://zhiyuan-jiang.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting started with the Academic framework for Hugo</title>
+      <link>https://zhiyuan-jiang.github.io/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://zhiyuan-jiang.github.io/post/getting-started/</guid>
+      <description>The Academic framework enables you to easily create a beautifully simple personal or academic website using the Hugo static site generator.
+Key features:
+ Easily manage your homepage, blog posts, publications, talks, and projects Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact Need a different section? Just use the Custom widget! Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Table of Contents    Installation Getting Started  Core parameters Introduce yourself Customize the homepage Add your content Remove unused widgets and pages Themes Customization &amp;amp; updating  Advanced customization  Navigation menu Website icon Analytics Third party and local scripts (JS) Language and translation Permalinks Advanced style customization (CSS)  Updating Feedback &amp;amp; Contributing License    Installation  Install Hugo and create a new website by typing the following commands in your Terminal or Command Prompt app:</description>
+    </item>
+    
+    <item>
+      <title>Customizing the homepage with widgets</title>
+      <link>https://zhiyuan-jiang.github.io/post/widgets/</link>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://zhiyuan-jiang.github.io/post/widgets/</guid>
+      <description>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:
+ About/biography Selected publications Recent publications Recent news/blog posts Projects Selected talks Recent talks Contact Tag cloud Hero (introduction) Custom widget (demonstrated with the teaching example)  The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&amp;rsquo;t need and customize the parameters of the widgets you wish to keep.</description>
+    </item>
+    
+    <item>
+      <title>Managing content</title>
+      <link>https://zhiyuan-jiang.github.io/post/managing-content/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://zhiyuan-jiang.github.io/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://zhiyuan-jiang.github.io/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions (FAQ)</title>
+      <link>https://zhiyuan-jiang.github.io/post/faq/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://zhiyuan-jiang.github.io/post/faq/</guid>
+      <description>Common questions and answers will be listed here.
+I cloned/downloaded Academic but Hugo produces errors when using it with my existing Hugo site
+Academic is a website framework rather than just a theme. Therefore, you must follow the full installation guide found on the Demo/Documentation website or in the Github Readme. If you still have problems, first try running Hugo on the Academic Example Site found in the themes/academic/exampleSite folder and then compare the configuration parameters in the Example Site&amp;rsquo;s config.</description>
+    </item>
+    
+  </channel>
+</rss>

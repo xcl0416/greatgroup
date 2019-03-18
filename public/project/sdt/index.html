@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.54.0" />
+  <meta name="author" content="Zhiyuan Jiang">
+  <meta name="description" content="Associate Professor">
+  
+  
+  <link rel="alternate" hreflang="en-us" href="https://zhiyuan-jiang.github.io/project/sdt/">
+
+  
+  
+  
+  
+    
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/highlight.min.css">
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  
+  
+  
+
+
+  
+
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+
+  
+  <link rel="alternate" href="https://zhiyuan-jiang.github.io/index.xml" type="application/rss+xml" title="Zhiyuan Jiang">
+  <link rel="feed" href="https://zhiyuan-jiang.github.io/index.xml" type="application/rss+xml" title="Zhiyuan Jiang">
+  
+
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
+
+  <link rel="canonical" href="https://zhiyuan-jiang.github.io/project/sdt/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Zhiyuan Jiang">
+  <meta property="og:url" content="https://zhiyuan-jiang.github.io/project/sdt/">
+  <meta property="og:title" content="Stochastic Optimization | Zhiyuan Jiang">
+  <meta property="og:description" content=""><meta property="og:image" content="https://zhiyuan-jiang.github.io/img/sdt_wide.jpg">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2016-04-27T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2016-04-27T00:00:00&#43;00:00">
+  
+
+  
+
+  <title>Stochastic Optimization | Zhiyuan Jiang</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="/">Zhiyuan Jiang</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#about">
+            
+            <span>Home</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#publications">
+            
+            <span>Publications</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#services">
+            
+            <span>Services</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#teaching">
+            
+            <span>Teaching</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#personal">
+            
+            <span>Personal</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#contact">
+            
+            <span>Contact</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
+
+  
+<div class="article-header">
+  <img src="/img/sdt_wide.jpg" class="article-banner" itemprop="image">
+  <span class="article-header-caption">Stochastic optimization in real life</span>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="pub-title">
+      <h1 itemprop="name">Stochastic Optimization</h1>
+      <span class="pub-authors" itemprop="author">&nbsp;</span>
+      <span class="pull-right">
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Stochastic%20Optimization&amp;url=https%3a%2f%2fzhiyuan-jiang.github.io%2fproject%2fsdt%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fzhiyuan-jiang.github.io%2fproject%2fsdt%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fzhiyuan-jiang.github.io%2fproject%2fsdt%2f&amp;title=Stochastic%20Optimization"
+         target="_blank" rel="noopener">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fzhiyuan-jiang.github.io%2fproject%2fsdt%2f&amp;title=Stochastic%20Optimization"
+         target="_blank" rel="noopener">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Stochastic%20Optimization&amp;body=https%3a%2f%2fzhiyuan-jiang.github.io%2fproject%2fsdt%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+      </span>
+    </div>
+
+    
+
+    <div class="article-style" itemprop="articleBody">
+      
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="btn btn-primary btn-outline" href="/tags/sdt">sdt</a>
+  
+</div>
+
+
+
+
+    
+    
+    
+
+    
+      
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Ruichen Deng, Zhiyuan Jiang, Sheng Zhou, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/32/" itemprop="name">Intermittent CSI Update for Massive MIMO Systems with Heterogeneous User Mobility</a>.
+  In <em>IEEE TCOM</em>,&nbsp;2019.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Zhiyuan Jiang, Sheng Zhou, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/40/" itemprop="name">A Unified Sampling and Scheduling Approach for Status Update in Multiaccess Wireless Networks</a>.
+  In <em>IEEE INFOCOM</em>,&nbsp;2018.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Bo Yin, Shuai Zhang, Yu Cheng, Lin X. Cai, Zhiyuan Jiang, Sheng Zhou, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/51/" itemprop="name">Only Those Requested Count: Proactive Scheduling Polices for Minimizing Effective Age-of-Information</a>.
+  In <em>IEEE INFOCOM</em>,&nbsp;2018.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Zhiyuan Jiang, Sheng Zhou, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/37/" itemprop="name">Improved Scaling Law for Status Update Timeliness in Massive IoT by Elastic Spatial Multiplexing</a>.
+  In <em>IEEE ICC</em>,&nbsp;2018.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Zhiyuan Jiang, Ziyan He, Sheng Chen, A. F. Molisch, Sheng Zhou, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/39/" itemprop="name">Inferring Remote Channel State Information: Cramer-Rao Lower Bound and Deep Learning Implementation</a>.
+  In <em>IEEE ICC</em>,&nbsp;2018.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Zhiyuan Jiang, Sheng Zhou, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/45/" itemprop="name">Time-Sequence Channel Inference for Beam Alignment\ in Vehicular Networks</a>.
+  In <em>IEEE GlobalSIP</em>,&nbsp;2018.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Zhiyuan Jiang, Bhaskar Krishnamachari, Sheng Zhou, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/38/" itemprop="name">Can Decentralized Status Update Achieve Universally Near-Optimal Age-of-Information in Wireless Multiaccess Channels?</a>.
+  In <em>IEEE ITC30</em>,&nbsp;2018.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Zhiyuan Jiang, Bhaskar Krishnamachari, Xi Zheng, Sheng Zhou, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/36/" itemprop="name">Decentralized Status Update for Age-of-Information Optimization in Wireless Multiaccess Channels</a>.
+  In <em>IEEE ISIT</em>,&nbsp;2018.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Sheng Chen, Zhiyuan Jiang, Sheng Zhou, Zhisheng Niu, Ziyan He, Andrei Marinescu, Luiz A. DaSilva</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/33/" itemprop="name">Learning-Based Remote Channel Inference: Feasibility Analysis and Case Study</a>.
+  In <em>IEEE Trans. Wireless Commun.</em>,&nbsp;2017.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Yuxuan Sun, Xueying Guo, Sheng Zhou, Zhiyuan Jiang, Xin Liu, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/34/" itemprop="name">Learning-based task offloading for vehicular cloud computing systems</a>.
+  In <em>IEEE ICC</em>,&nbsp;2017.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Zhiyuan Jiang, Bhaskar Krishnamachari, Sheng Zhou, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/30/" itemprop="name">Optimal sleeping mechanism for multiple servers with MMPP-based bursty traffic arrival</a>.
+  In <em>IEEE WCL</em>,&nbsp;2017.
+  <p>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://ieeexplore.ieee.org/document/8187673/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Yuxuan Sun, Xueying Guo, Sheng Zhou, Zhiyuan Jiang, Xin Liu, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/35/" itemprop="name">SENATE: A Permissionless Byzantine Consensus Protocol in Wireless Networks for Real-Time Internet-of-Things Applications</a>.
+  In <em>IEEE IoT J.</em>,&nbsp;2017.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Zhiyuan Jiang, Xueying Guo, Sheng Zhou, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/27/" itemprop="name">Task replication for deadline-constrained vehicular cloud computing: optimal policy, performance analysis and implications on road traffic</a>.
+  In <em>IEEE IoT-J</em>,&nbsp;2017.
+  <p>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://ieeexplore.ieee.org/document/8100863/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Zhiyuan Jiang, Bhaskar Krishnamachari, Xi Zheng, Sheng Zhou, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/31/" itemprop="name">Timely Status Update in Massive IoT Systems: Decentralized Scheduling for Wireless Uplinks</a>.
+  In <em>IEEE IoT J.</em>,&nbsp;2017.
+  <p>
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Yongkang Li, Zhiyuan Jiang, An Xu, Sheng Zhou, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/23/" itemprop="name">Elastic Local Breakout Strategy and Implementation for Delay-Sensitive Packets with Local Significance</a>.
+  In <em>IEEE WCSP</em>,&nbsp;2017.
+  <p>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1708.06876.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Xi Zheng, Sheng Zhou, Zhiyuan Jiang, Zhisheng Niu</span>.
+  <a href="https://zhiyuan-jiang.github.io/publication/18/" itemprop="name">Proactive Content Push in Heterogeneous Networks with Multiple Energy Harvesting Small Cells</a>.
+  In <em>IEEE VTC Spring</em>,&nbsp;2017.
+  <p>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://ieeexplore.ieee.org/document/8108470/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="/project/sdt/">
+  Project
+</a>
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        
+      
+
+      
+      
+      
+      
+    
+
+  </div>
+</article>
+
+<div class="container">
+  <nav>
+  <ul class="pager">
+    
+
+    
+    <li class="next"><a href="https://zhiyuan-jiang.github.io/project/mimo/">Massive MIMO <span
+      aria-hidden="true">&rarr;</span></a></li>
+    
+  </ul>
+</nav>
+
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2017 Zhiyuan Jiang &middot; 
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    
+    
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+      
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
+    
+    
+
+  </body>
+</html>
+
