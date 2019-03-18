@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Zhiyuan Jiang</title>
-    <link>https://zhiyuan-jiang.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Zhiyuan Jiang</description>
+    <title>Recent &amp; Upcoming Talks on GREAT</title>
+    <link>https://xcl0416.github.io/greatgroup/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on GREAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Zhiyuan Jiang</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://zhiyuan-jiang.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xcl0416.github.io/greatgroup/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Talk</title>
-      <link>https://zhiyuan-jiang.github.io/talk/example-talk/</link>
+      <link>https://xcl0416.github.io/greatgroup/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/talk/example-talk/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/talk/example-talk/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

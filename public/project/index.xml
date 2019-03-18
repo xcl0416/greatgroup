@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Zhiyuan Jiang</title>
-    <link>https://zhiyuan-jiang.github.io/project/</link>
-    <description>Recent content in Projects on Zhiyuan Jiang</description>
+    <title>Projects on GREAT</title>
+    <link>https://xcl0416.github.io/greatgroup/project/</link>
+    <description>Recent content in Projects on GREAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Zhiyuan Jiang</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://zhiyuan-jiang.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xcl0416.github.io/greatgroup/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Massive MIMO</title>
-      <link>https://zhiyuan-jiang.github.io/project/mimo/</link>
+      <link>https://xcl0416.github.io/greatgroup/project/mimo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/project/mimo/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/project/mimo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic Optimization</title>
-      <link>https://zhiyuan-jiang.github.io/project/sdt/</link>
+      <link>https://xcl0416.github.io/greatgroup/project/sdt/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/project/sdt/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/project/sdt/</guid>
       <description></description>
     </item>
     

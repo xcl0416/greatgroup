@@ -1,140 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Zhiyuan Jiang</title>
-    <link>https://zhiyuan-jiang.github.io/publication_types/2/</link>
-    <description>Recent content in 2 on Zhiyuan Jiang</description>
+    <title>2 on GREAT</title>
+    <link>https://xcl0416.github.io/greatgroup/publication_types/2/</link>
+    <description>Recent content in 2 on GREAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Zhiyuan Jiang</copyright>
     <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://zhiyuan-jiang.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xcl0416.github.io/greatgroup/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Exploiting Wireless Channel State Information Structures Beyond Linear Correlations: A Deep Learning Approach</title>
-      <link>https://zhiyuan-jiang.github.io/publication/17/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/17/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/17/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Learning-Based Task Offloading for Vehicular Edge Computing Systems</title>
-      <link>https://zhiyuan-jiang.github.io/publication/44/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/44/</link>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/44/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/44/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint user scheduling and beam selection optimization for beam-based massive MIMO downlinks</title>
-      <link>https://zhiyuan-jiang.github.io/publication/15/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/15/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/15/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal discrete spatial compression for beamspace massive MIMO signals</title>
-      <link>https://zhiyuan-jiang.github.io/publication/12/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/12/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/12/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal sleeping mechanism for multiple servers with MMPP-based bursty traffic arrival</title>
-      <link>https://zhiyuan-jiang.github.io/publication/30/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/30/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/30/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/30/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Task replication for deadline-constrained vehicular cloud computing: optimal policy, performance analysis and implications on road traffic</title>
-      <link>https://zhiyuan-jiang.github.io/publication/27/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/27/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/27/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/27/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSI acquisition for sleeping cells in hyper cellular networks based on channel learning</title>
-      <link>https://zhiyuan-jiang.github.io/publication/26/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/26/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/26/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/26/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synergetic communication-and-computation optimization in software-defined hypercellular networks</title>
-      <link>https://zhiyuan-jiang.github.io/publication/20/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/20/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/20/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>System design and software-defined implementation for hyper-cellular network</title>
-      <link>https://zhiyuan-jiang.github.io/publication/19/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/19/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/19/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pilot-data superposition for beam-based FDD massive MIMO downlinks</title>
-      <link>https://zhiyuan-jiang.github.io/publication/13/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/13/</link>
       <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/13/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A novel TLS-based antenna reciprocity calibration scheme in TDD MIMO systems</title>
-      <link>https://zhiyuan-jiang.github.io/publication/11/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/11/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/11/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Achievable rates of FDD massive MIMO systems with spatial channel correlation</title>
-      <link>https://zhiyuan-jiang.github.io/publication/5/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/5/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/5/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal antenna cluster size in cell-free large-scale distributed antenna systems with imperfect CSI and intercluster interference</title>
-      <link>https://zhiyuan-jiang.github.io/publication/2/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/2/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/2/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic channel acquisition in MU-MIMO</title>
-      <link>https://zhiyuan-jiang.github.io/publication/4/</link>
+      <link>https://xcl0416.github.io/greatgroup/publication/4/</link>
       <pubDate>Mon, 29 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/publication/4/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/publication/4/</guid>
       <description></description>
     </item>
     

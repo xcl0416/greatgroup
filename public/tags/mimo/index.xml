@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mimo on Zhiyuan Jiang</title>
-    <link>https://zhiyuan-jiang.github.io/tags/mimo/</link>
-    <description>Recent content in mimo on Zhiyuan Jiang</description>
+    <title>mimo on GREAT</title>
+    <link>https://xcl0416.github.io/greatgroup/tags/mimo/</link>
+    <description>Recent content in mimo on GREAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Zhiyuan Jiang</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://zhiyuan-jiang.github.io/tags/mimo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xcl0416.github.io/greatgroup/tags/mimo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Massive MIMO</title>
-      <link>https://zhiyuan-jiang.github.io/project/mimo/</link>
+      <link>https://xcl0416.github.io/greatgroup/project/mimo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://zhiyuan-jiang.github.io/project/mimo/</guid>
+      <guid>https://xcl0416.github.io/greatgroup/project/mimo/</guid>
       <description></description>
     </item>
     
