@@ -1,0 +1,15 @@
+go to my_site\.git delete all files
+delete public directory
+delete zhiyuan-jiang.github.io and website resp., and recreate both (zhiyuan-jiang has readme files)
+
+git init
+git remote add origin https://github.com/zhiyuan-jiang/website.git
+git submodule add https://github.com/zhiyuan-jiang/zhiyuan-jiang.github.io.git public
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+hugo
+cd public
+git add .
+git commit -m "Build website"
+git push -u origin master
