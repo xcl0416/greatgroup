@@ -1,6 +1,5 @@
-baseurl = "https://xcl0416.github.io/greatgroup/# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Zhiyuan Jiang"
-copyright = "&copy; 2017 Zhiyuan Jiang"
+baseurl = "https://xcl0416.github.io/greatgroup/
+title = "GREAT"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -37,10 +36,6 @@ defaultContentLanguageInSubdir = false
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
-
-  # Your details.
-  name = "Zhiyuan Jiang"
-  role = "Associate Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
