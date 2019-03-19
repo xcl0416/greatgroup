@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Zhiyuan Jiang</title>
+    <link>https://xcl0416.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Zhiyuan Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zhiyuan Jiang</copyright>
+    <lastBuildDate>Fri, 30 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xcl0416.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Unified Sampling and Scheduling Approach for Status Update in Multiaccess Wireless Networks</title>
+      <link>https://xcl0416.github.io/publication/40/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Only Those Requested Count: Proactive Scheduling Polices for Minimizing Effective Age-of-Information</title>
+      <link>https://xcl0416.github.io/publication/51/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Scaling Law for Status Update Timeliness in Massive IoT by Elastic Spatial Multiplexing</title>
+      <link>https://xcl0416.github.io/publication/37/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring Remote Channel State Information: Cramer-Rao Lower Bound and Deep Learning Implementation</title>
+      <link>https://xcl0416.github.io/publication/39/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Sequence Channel Inference for Beam Alignment\ in Vehicular Networks</title>
+      <link>https://xcl0416.github.io/publication/45/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Decentralized Status Update Achieve Universally Near-Optimal Age-of-Information in Wireless Multiaccess Channels?</title>
+      <link>https://xcl0416.github.io/publication/38/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Status Update for Age-of-Information Optimization in Wireless Multiaccess Channels</title>
+      <link>https://xcl0416.github.io/publication/36/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beam-based massive MIMO downlink scheduling based on statistical CSI by block coordinated update</title>
+      <link>https://xcl0416.github.io/publication/16/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete spatial compression beyond beamspac channel sparsity based on branch-and-bound</title>
+      <link>https://xcl0416.github.io/publication/22/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How often should CSI be updated for massive MIMO systems with massive connectivity?</title>
+      <link>https://xcl0416.github.io/publication/28/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-based task offloading for vehicular cloud computing systems</title>
+      <link>https://xcl0416.github.io/publication/34/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote channel inference for beamforming in ultra-dense hyper-cellular network</title>
+      <link>https://xcl0416.github.io/publication/29/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic Local Breakout Strategy and Implementation for Delay-Sensitive Packets with Local Significance</title>
+      <link>https://xcl0416.github.io/publication/23/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proactive Content Push in Heterogeneous Networks with Multiple Energy Harvesting Small Cells</title>
+      <link>https://xcl0416.github.io/publication/18/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antenna-beam spatial transformation in C-RAN with large antenna arrays</title>
+      <link>https://xcl0416.github.io/publication/14/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On dimensionality loss in FDD massive MIMO systems</title>
+      <link>https://xcl0416.github.io/publication/7/</link>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User scheduling in pilot-assisted TDD multiuser MIMO systems</title>
+      <link>https://xcl0416.github.io/publication/8/</link>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the achievable rates of FDD massive MIMO systems with spatial channel correlation</title>
+      <link>https://xcl0416.github.io/publication/6/</link>
+      <pubDate>Mon, 13 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimum power consumption of a base station with large-scale antenna array</title>
+      <link>https://xcl0416.github.io/publication/3/</link>
+      <pubDate>Thu, 29 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capacity bounds of downlink network-MIMO systems with inter-cluster interference</title>
+      <link>https://xcl0416.github.io/publication/1/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

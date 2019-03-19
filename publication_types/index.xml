@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types on Zhiyuan Jiang</title>
+    <link>https://xcl0416.github.io/publication_types/</link>
+    <description>Recent content in Publication_types on Zhiyuan Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zhiyuan Jiang</copyright>
+    <lastBuildDate>Fri, 30 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xcl0416.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1</title>
+      <link>https://xcl0416.github.io/publication_types/1/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://xcl0416.github.io/publication_types/2/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://xcl0416.github.io/publication_types/3/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>https://xcl0416.github.io/publication_types/4/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication_types/4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

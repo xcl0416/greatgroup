@@ -1,14 +1,149 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://xcl0416.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Zhiyuan Jiang on Zhiyuan Jiang</title>
+    <link>https://xcl0416.github.io/</link>
+    <description>Recent content in Zhiyuan Jiang on Zhiyuan Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zhiyuan Jiang</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
-	<atom:link href="http://xcl0416.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploiting the Moving Intelligence: Delay-Optimized Computation Offloading in Vehicular Fog Networks</title>
+      <link>https://xcl0416.github.io/publication/vcc/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/vcc/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Intermittent CSI Update for Massive MIMO Systems with Heterogeneous User Mobility</title>
+      <link>https://xcl0416.github.io/publication/32/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Sampling and Scheduling Approach for Status Update in Multiaccess Wireless Networks</title>
+      <link>https://xcl0416.github.io/publication/40/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Only Those Requested Count: Proactive Scheduling Polices for Minimizing Effective Age-of-Information</title>
+      <link>https://xcl0416.github.io/publication/51/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Wireless Channel State Information Structures Beyond Linear Correlations: A Deep Learning Approach</title>
+      <link>https://xcl0416.github.io/publication/17/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Scaling Law for Status Update Timeliness in Massive IoT by Elastic Spatial Multiplexing</title>
+      <link>https://xcl0416.github.io/publication/37/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring Remote Channel State Information: Cramer-Rao Lower Bound and Deep Learning Implementation</title>
+      <link>https://xcl0416.github.io/publication/39/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Sequence Channel Inference for Beam Alignment\ in Vehicular Networks</title>
+      <link>https://xcl0416.github.io/publication/45/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Decentralized Status Update Achieve Universally Near-Optimal Age-of-Information in Wireless Multiaccess Channels?</title>
+      <link>https://xcl0416.github.io/publication/38/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Learning-Based Task Offloading for Vehicular Edge Computing Systems</title>
+      <link>https://xcl0416.github.io/publication/44/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and apparatuses for spatial pre-processing of signals in a wireless communication system</title>
+      <link>https://xcl0416.github.io/publication/43/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and apparatuses for spatial pre-processing of signals in a wireless communication system</title>
+      <link>https://xcl0416.github.io/publication/46/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Status Update for Age-of-Information Optimization in Wireless Multiaccess Channels</title>
+      <link>https://xcl0416.github.io/publication/36/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beam-based massive MIMO downlink scheduling based on statistical CSI by block coordinated update</title>
+      <link>https://xcl0416.github.io/publication/16/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiplexing of subframes with different subcarrier spacings</title>
+      <link>https://xcl0416.github.io/publication/42/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/publication/42/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

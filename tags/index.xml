@@ -1,14 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://xcl0416.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Zhiyuan Jiang</title>
+    <link>https://xcl0416.github.io/tags/</link>
+    <description>Recent content in Tags on Zhiyuan Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zhiyuan Jiang</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://xcl0416.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xcl0416.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>https://xcl0416.github.io/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://xcl0416.github.io/tags/hugo/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://xcl0416.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jekyll</title>
+      <link>https://xcl0416.github.io/tags/jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0800</pubDate>
+      
+      <guid>https://xcl0416.github.io/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mimo</title>
+      <link>https://xcl0416.github.io/tags/mimo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/tags/mimo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sdt</title>
+      <link>https://xcl0416.github.io/tags/sdt/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://xcl0416.github.io/tags/sdt/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
