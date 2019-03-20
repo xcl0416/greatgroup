@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Zhiyuan Jiang</title>
+    <title>Homes on GREAT</title>
     <link>https://xcl0416.github.io/home/</link>
-    <description>Recent content in Homes on Zhiyuan Jiang</description>
+    <description>Recent content in Homes on GREAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Zhiyuan Jiang</copyright>
+    <copyright>&amp;copy; 2017 GREAT</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://xcl0416.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,16 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://xcl0416.github.io/home/about/</guid>
-      <description>Biography Welcome to my homepage. I&amp;rsquo;m currently an associate professor at Shanghai University. I received my B.E., Ph.D. and postdoc degrees from the EE department at Tsinghua University, China in 2015 and 2010, respectively. My advisor was Prof. Zhisheng Niu from Niulab, Tsinghua University. I visited the WiDeS group at University of Southern California from September 2013 to April 2014, advised by Prof. A. F. Molisch and Prof. Giuseppe Caire.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://xcl0416.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://xcl0416.github.io/home/projects/</guid>
-      <description></description>
+      <description>Introduction Welcome to my homepage. XXX</description>
     </item>
     
     <item>
@@ -40,37 +31,17 @@
     </item>
     
     <item>
-      <title>Services</title>
-      <link>https://xcl0416.github.io/home/services/</link>
+      <title>Teachers</title>
+      <link>https://xcl0416.github.io/home/teachers/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://xcl0416.github.io/home/services/</guid>
-      <description>Editorial board
- IEEE/KICS Journal of Communications and Networks  TPC member
- IEEE DySPAN 2018, PIMRC 2015, PIMRC 2017, APCC 2017, WPMC 2017, SigTelCom 2018  Invited reviewer
- IEEE Tran. Netw., IEEE J. Select. Area Commun., IEEE IoT J., IEEE Tran. Wireless Commun., IEEE Tran. Commun., IEEE Tran. Veh. Tech., IEEE Tran. Signal. Process., IEEE Wireless Commun. Mag., IEEE Commun. Mag., IEEE CL, IEEE WCL, Mobihoc, IEEE ICC, GLOBECOM, WCNC, VTC&amp;hellip;  </description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://xcl0416.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://xcl0416.github.io/home/teaching/</guid>
-      <description>I was a teaching assistant for the following courses at Tsinghua University:
- Advanced linear algebra Queuing Theory  I also organized studying groups on
- Markov decision process Reinforcement learning Deep learning  </description>
-    </item>
-    
-    <item>
-      <title>Personal</title>
-      <link>https://xcl0416.github.io/home/personal/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://xcl0416.github.io/home/personal/</guid>
-      <description>I played for the THU team from 2010 to 2015. We won the champion of Beijing College in 2009, 2010, 2011, 2013, 2014, 2016 and 2017, and the China College Baseball champion in 2009 (shared) at Guilin, 2013 at Tianjin, 2014 at Wuxi and 2015 at Dalian (shared).
-My favorate MLB baseball club is Boston Redsox.
-For my blog in Chinese, please click here.</description>
+      <guid>https://xcl0416.github.io/home/teachers/</guid>
+      <description>Shugong Xu
+ XXX  Shunqing Zhang
+ XXX  Shan Cao
+ XXX  Zhiyuan Jiang
+ XXX  Xiaojing Chen
+ XXX  </description>
     </item>
     
     <item>
