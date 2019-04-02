@@ -2,32 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on GREAT</title>
-    <link>https://xcl0416.github.io/publication_types/1/</link>
+    <link>/publication_types/1/</link>
     <description>Recent content in 1 on GREAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 GREAT</copyright>
-    <lastBuildDate>Thu, 29 Aug 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://xcl0416.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Minimum power consumption of a base station with large-scale antenna array</title>
-      <link>https://xcl0416.github.io/publication/3/</link>
-      <pubDate>Thu, 29 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://xcl0416.github.io/publication/3/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Capacity bounds of downlink network-MIMO systems with inter-cluster interference</title>
-      <link>https://xcl0416.github.io/publication/1/</link>
-      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <title>Mobile visual clothing search</title>
+      <link>/publications/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0800</pubDate>
       
-      <guid>https://xcl0416.github.io/publication/1/</guid>
-      <description></description>
+      <guid>/publications/clothing-search/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
   </channel>

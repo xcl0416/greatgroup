@@ -2,23 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on GREAT</title>
-    <link>https://xcl0416.github.io/publication_types/2/</link>
+    <link>/publication_types/2/</link>
     <description>Recent content in 2 on GREAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 GREAT</copyright>
-    <lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://xcl0416.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Optimal antenna cluster size in cell-free large-scale distributed antenna systems with imperfect CSI and intercluster interference</title>
-      <link>https://xcl0416.github.io/publication/2/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>/publications/person-re-id/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0800</pubDate>
       
-      <guid>https://xcl0416.github.io/publication/2/</guid>
-      <description></description>
+      <guid>/publications/person-re-id/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
   </channel>

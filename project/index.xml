@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Zhiyuan Jiang</title>
-    <link>https://xcl0416.github.io/project/</link>
-    <description>Recent content in Projects on Zhiyuan Jiang</description>
+    <title>Projects on GREAT</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on GREAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Zhiyuan Jiang</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://xcl0416.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Massive MIMO</title>
-      <link>https://xcl0416.github.io/project/mimo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://xcl0416.github.io/project/mimo/</guid>
+      <guid>/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stochastic Optimization</title>
-      <link>https://xcl0416.github.io/project/sdt/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://xcl0416.github.io/project/sdt/</guid>
-      <description></description>
+      <guid>/project/internal-project/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
   </channel>
