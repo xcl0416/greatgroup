@@ -15,12 +15,6 @@
   
     <url>
     
-      <loc>/publications/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+08:00</lastmod>
     </url>
@@ -33,13 +27,7 @@
   
     <url>
     
-      <loc>/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/project/internal-project/</loc>
+      <loc>/project/wireless-communication/</loc>
       <lastmod>2016-04-27T00:00:00+08:00</lastmod>
     </url>
   
@@ -51,14 +39,20 @@
   
     <url>
     
-      <loc>/publications/person-re-id/</loc>
-      <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+      <loc>/publication/dynamic-carrier-to-mcpa-allocation-for-energy-efficient-communication-convex-relaxation-versus-deep-learning/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
   
     <url>
     
-      <loc>/publications/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
+      <loc>/publication/%E6%9C%9F%E5%88%8A%E8%AE%BA%E6%96%87/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -68,15 +62,35 @@
   
     <url>
     
+      <loc>/author/af1-zhangshunqing/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/author/caoshan/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/author/cb1-jiangzhiyuan/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/author/chenxiaojing/</loc>
+    </url>
+  
+    <url>
+    
       <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -114,29 +128,8 @@
   
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/ga-cushen/</loc>
-      <lastmod>2015-09-01T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>/</loc>
       <lastmod>2030-06-01T13:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/ms-nixon/</loc>
-      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -156,14 +149,27 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
   
     <url>
     
       <loc>/talk/</loc>
       <lastmod>2030-06-01T13:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/robert-ford/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -179,6 +185,13 @@
   
     <url>
     
+      <loc>/tags/source-themes/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/tags/</loc>
       <lastmod>2018-01-13T00:00:00+08:00</lastmod>
       <priority>0</priority>
@@ -188,6 +201,38 @@
     
       <loc>/authors/admin/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/af1-zhangshunqing/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/caoshan/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/cb1-jiangzhiyuan/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/chenxiaojing/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/authors/%E5%90%91%E6%99%A8%E8%B7%AF/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   

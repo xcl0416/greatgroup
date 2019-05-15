@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes on GREAT</title>
+    <link>/tags/source-themes/</link>
+    <description>Recent content in Source Themes on GREAT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamic Carrier to MCPA Allocation for Energy Efficient Communication: Convex Relaxation versus Deep Learning</title>
+      <link>/publication/dynamic-carrier-to-mcpa-allocation-for-energy-efficient-communication-convex-relaxation-versus-deep-learning/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dynamic-carrier-to-mcpa-allocation-for-energy-efficient-communication-convex-relaxation-versus-deep-learning/</guid>
+      <description>还可以在这里加一些东西</description>
+    </item>
+    
+    <item>
+      <title>期刊论文</title>
+      <link>/publication/%E6%9C%9F%E5%88%8A%E8%AE%BA%E6%96%87/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/%E6%9C%9F%E5%88%8A%E8%AE%BA%E6%96%87/</guid>
+      <description>Click the Cite button above to demo the feature to enable visitors to import publication metadata into their reference management software. Click the Slides button above to demo Academic&amp;rsquo;s Markdown slides feature. Supplementary notes can be added here, including code and math.</description>
+    </item>
+    
+    <item>
+      <title>会议论文模板</title>
+      <link>/publication/%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87/</guid>
+      <description>Click the Cite button above to demo the feature to enable visitors to import publication metadata into their reference management software. Click the Slides button above to demo Academic&amp;rsquo;s Markdown slides feature. Supplementary notes can be added here, including code and math.</description>
+    </item>
+    
+  </channel>
+</rss>

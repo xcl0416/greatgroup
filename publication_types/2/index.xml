@@ -6,18 +6,27 @@
     <description>Recent content in 2 on GREAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publications/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0800</pubDate>
+      <title>Dynamic Carrier to MCPA Allocation for Energy Efficient Communication: Convex Relaxation versus Deep Learning</title>
+      <link>/publication/dynamic-carrier-to-mcpa-allocation-for-energy-efficient-communication-convex-relaxation-versus-deep-learning/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publications/person-re-id/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/dynamic-carrier-to-mcpa-allocation-for-energy-efficient-communication-convex-relaxation-versus-deep-learning/</guid>
+      <description>还可以在这里加一些东西</description>
+    </item>
+    
+    <item>
+      <title>期刊论文</title>
+      <link>/publication/%E6%9C%9F%E5%88%8A%E8%AE%BA%E6%96%87/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/%E6%9C%9F%E5%88%8A%E8%AE%BA%E6%96%87/</guid>
+      <description>Click the Cite button above to demo the feature to enable visitors to import publication metadata into their reference management software. Click the Slides button above to demo Academic&amp;rsquo;s Markdown slides feature. Supplementary notes can be added here, including code and math.</description>
     </item>
     
   </channel>

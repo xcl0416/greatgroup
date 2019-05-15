@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cb1-jiangzhiyuan on GREAT</title>
+    <link>/authors/cb1-jiangzhiyuan/</link>
+    <description>Recent content in cb1-jiangzhiyuan on GREAT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/authors/cb1-jiangzhiyuan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/cb1-jiangzhiyuan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/cb1-jiangzhiyuan/</guid>
+      <description>decription of your lab xxxxxxxx decription of your lab xxxxxxxxxxxxxxxxx</description>
+    </item>
+    
+  </channel>
+</rss>

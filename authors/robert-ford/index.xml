@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Ford on GREAT</title>
+    <link>/authors/robert-ford/</link>
+    <description>Recent content in Robert Ford on GREAT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/robert-ford/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>会议论文模板</title>
+      <link>/publication/%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/%E4%BC%9A%E8%AE%AE%E8%AE%BA%E6%96%87/</guid>
+      <description>Click the Cite button above to demo the feature to enable visitors to import publication metadata into their reference management software. Click the Slides button above to demo Academic&amp;rsquo;s Markdown slides feature. Supplementary notes can be added here, including code and math.</description>
+    </item>
+    
+  </channel>
+</rss>
